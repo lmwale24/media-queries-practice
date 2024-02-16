@@ -2,29 +2,35 @@
 
 A simple project designed to practice media queries, demonstrating responsive design by dynamically changing background colors based on different screen widths. The project includes CSS variables for easy customization and a JavaScript component to display real-time window width.
 
-## Access the Project Locally
+# Responsive Design Practice Project
 
-To view this project on your local machine and explore the responsive design, follow these steps:
+Welcome to the Responsive Design Practice Project! This repository contains the code for a project aimed at practicing responsive design techniques. The project explores the implementation of media queries to ensure that the website layout adjusts appropriately across different screen sizes and devices.
 
-1. Clone the repository to your local machine:
+## Access the Website
 
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/media-queries-practice.git
+To view the Responsive Design Practice Project, simply click [here](https://lmwale24.github.io/media-queries-practice/). This link will take you directly to the hosted webpage.
 
-2: Navigate to the project directory
-cd media-queries-practice
+## Features
 
+- **Responsive Layout:** Explore how the website layout adapts to different screen sizes and devices using media queries.
+- **Practice Project:** Use this project as a learning resource to understand and experiment with responsive design techniques.
 
-3:Open the project in your preferred web browser by entering the following URL in the browser's address bar:
-http://127.0.0.1:5500/media_query/index.html
+## Contributing
 
-Feel free to experiment with the CSS variables and explore how the project responds to changes in screen width!
+Your contributions are welcome! Whether it's fixing bugs, improving code, or adding new features related to responsive design, feel free to submit a pull request.
 
-Project Overview
-CSS Variables: The project utilizes CSS variables, allowing for easy customization of various design elements.
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/new-feature`.
+3. Make your changes and commit: `git commit -m 'Add new feature'`.
+4. Push to the branch: `git push origin feature/new-feature`.
+5. Submit a pull request.
 
-JavaScript Component: A JavaScript component is incorporated to provide real-time updates on the current window width, enhancing the learning experience for media query adjustments.
+## License
 
-License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+Special thanks to everyone who contributed to the development of this project. Let's continue learning and improving together!
+
 
